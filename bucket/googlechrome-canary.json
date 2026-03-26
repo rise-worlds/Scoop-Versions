@@ -1,5 +1,5 @@
 {
-    "version": "148.0.7755.0",
+    "version": "148.0.7756.0",
     "description": "Fast, secure, and free web browser, built for the modern web.",
     "homepage": "https://www.google.com/chrome/canary",
     "license": {
@@ -8,16 +8,16 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://dl.google.com/release2/chrome/duajmnyteqkfw3wzrmzundille_148.0.7755.0/148.0.7755.0_chrome_installer_uncompressed.exe#/dl.7z",
-            "hash": "d4bc6f68d8be2d5c8fa296173f239205d9e5027c40830548f7e8758a8fdb7f3a"
+            "url": "https://dl.google.com/release2/chrome/ackebh7mudl4okeosyzjc6voej5q_148.0.7756.0/148.0.7756.0_chrome_installer_uncompressed.exe#/dl.7z",
+            "hash": "4642e5b9d91f398bc8a6a35aa2dec132b5992cccdf94ad86624b110008bddac7"
         },
         "32bit": {
-            "url": "https://dl.google.com/release2/chrome/admdc2ke7rz2c4wjryllbutzykha_148.0.7754.1/148.0.7754.1_chrome_installer_uncompressed.exe#/dl.7z",
-            "hash": "7ee7f6ad357312c878ce2ffa275882633e759c2ea5b05122533dcce6128613ec"
+            "url": "https://dl.google.com/release2/chrome/acaum5bcnjxyl5kk5uin4rjanska_148.0.7756.0/148.0.7756.0_chrome_installer_uncompressed.exe#/dl.7z",
+            "hash": "12035b5789e144e320b59b0b0e8c78856c49b2a4206b03e93d03be5e3069d018"
         },
         "arm64": {
-            "url": "https://dl.google.com/release2/chrome/p6s7lfjij53tp2arojru6wtv2e_148.0.7754.0/148.0.7754.0_chrome_installer_uncompressed.exe#/dl.7z",
-            "hash": "b036501dfe7f3f9fa63c6e4c1ed8bf1819c678b1a2a73883a9d6fb73f02b8171"
+            "url": "https://dl.google.com/release2/chrome/mxljnwmikkbifllerg6l2345uu_148.0.7756.0/148.0.7756.0_chrome_installer_uncompressed.exe#/dl.7z",
+            "hash": "98993a10f29527d4142d890833e9b57cc404a80da1e7a4aa40d7506a520c21e6"
         }
     },
     "extract_dir": "Chrome-bin",
