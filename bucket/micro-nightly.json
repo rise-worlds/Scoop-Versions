@@ -1,16 +1,16 @@
 {
-    "version": "nightly-2026-06-01",
+    "version": "nightly-2026-06-02",
     "description": "A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals.",
     "homepage": "https://micro-editor.github.io/",
     "license": "MIT",
     "architecture": {
         "64bit": {
             "url": "https://github.com/zyedidia/micro/releases/download/nightly/micro-nightly-win64.zip",
-            "hash": "1437baecd1ee7807047dd6f16bae8b38a8685a64bc1ad453dcb1fbb609300ff7"
+            "hash": "38ff028797487d9b54420d2419d40549c8383cec7bb6062ba6ec116d430443f2"
         },
         "32bit": {
             "url": "https://github.com/zyedidia/micro/releases/download/nightly/micro-nightly-win64.zip",
-            "hash": "1437baecd1ee7807047dd6f16bae8b38a8685a64bc1ad453dcb1fbb609300ff7"
+            "hash": "38ff028797487d9b54420d2419d40549c8383cec7bb6062ba6ec116d430443f2"
         }
     },
     "extract_dir": "micro-nightly",
